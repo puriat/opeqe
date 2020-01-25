@@ -1,0 +1,12 @@
+@import './src/style/variables';
+
+.container {
+
+  margin-top:$top-scroll-height  + $general-header-height;
+  overflow-x: hidden;
+
+
+  .home_body {
+    background: white;
+  }
+}
